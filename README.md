@@ -1,16 +1,17 @@
-### Hi there 👋
+### 🪪 About Me
+- 🏫 I'm a 14 y/o student-programmer from Hong Kong.
+- 🌱 I'm currently learning C++ for competitive programming and Java for App Inventor.
+- 🔭 I'm working on several projects, including MIT App Inventor Open-Source as an external collaborator.
+- 📚 I love math, computer science and history.
+  
+<hr>
 
-<!--
-**gordonlu310/gordonlu310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Tech Stack
 
-Here are some ideas to get you started:
+![image](https://github.com/gordonlu310/gordonlu310/assets/88015331/d2439d44-f8aa-484d-8ffd-15872be4c66d) ![image](https://github.com/gordonlu310/gordonlu310/assets/88015331/dcf5938f-aaa8-4bf2-b0fb-ee3b966a39ad) ![image](https://github.com/gordonlu310/gordonlu310/assets/88015331/aba16eef-d1c1-41dc-acf0-db4e7cb1bda9) ![image](https://github.com/gordonlu310/gordonlu310/assets/88015331/ea09a53b-39ab-4bad-89e2-5c966870fb0c) ![image](https://github.com/gordonlu310/gordonlu310/assets/88015331/1cc360b5-4a36-45cc-a084-e82b269822bc)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+### 📊 GitHub Stats
+
+[![Gordon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gordonlu310)](https://github.com/anuraghazra/github-readme-stats)
