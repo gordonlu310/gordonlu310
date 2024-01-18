@@ -1,7 +1,7 @@
 ### 🪪 About Me
 - 🏫 I'm a 14 y/o student-programmer from Hong Kong.
 - 🌱 I'm currently learning C++ for competitive programming and Java for App Inventor.
-- 🔭 I'm working on several projects, including MIT App Inventor Open-Source as an external collaborator.
+- 🔭 I'm working on several projects, including MIT App Inventor Open-Source as an external contributor.
 - 📚 I love math, computer science and history.
   
 <hr>
