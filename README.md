@@ -13,5 +13,4 @@
 <hr>
 
 ### 📊 GitHub Stats
-
-[![Gordon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gordonlu310)](https://github.com/anuraghazra/github-readme-stats)
+[![Gordon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gordonlu310)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gordonlu310)](https://github.com/gordonlu310/github-readme-stats)
