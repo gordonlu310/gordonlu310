@@ -1,8 +1,8 @@
 ### 🪪 About Me
 - 🏫 I'm a 14 y/o student-programmer from Hong Kong.
-- 🌱 I'm currently learning C++ for competitive programming and Java for App Inventor.
+- 🌱 I'm currently learning C++ for competitive programming, and Java and Dart for Android and Flutter.
 - 🔭 I'm working on several projects, including MIT App Inventor Open-Source as an external contributor.
-- 📚 I love math, computer science and history.
+- 📚 I like math, computer science, and history.
   
 <hr>
 
