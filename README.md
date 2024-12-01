@@ -8,7 +8,16 @@
 
 ### 💻 Tech Stack
 
-![image](https://github.com/gordonlu310/gordonlu310/assets/88015331/d2439d44-f8aa-484d-8ffd-15872be4c66d) ![image](https://github.com/gordonlu310/gordonlu310/assets/88015331/dcf5938f-aaa8-4bf2-b0fb-ee3b966a39ad) ![image](https://github.com/gordonlu310/gordonlu310/assets/88015331/aba16eef-d1c1-41dc-acf0-db4e7cb1bda9) ![image](https://github.com/gordonlu310/gordonlu310/assets/88015331/ea09a53b-39ab-4bad-89e2-5c966870fb0c) ![image](https://github.com/gordonlu310/gordonlu310/assets/88015331/1cc360b5-4a36-45cc-a084-e82b269822bc)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 <hr>
 
